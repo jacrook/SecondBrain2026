@@ -1,2 +1,2 @@
 # SecondBrain2026
-Python Based Knowledge Platform
+N8N Based Knowledge Platform
